@@ -1,0 +1,11 @@
+{
+    "webhook_url": "https://discord.com/api/webhooks/1254216509933490276/M5ImSsegsfZBNE0Wr-8eKMmilfJA9KfjoqWpcE9wzvb9L0XULGFYLDIRpWJaWZy1Ks_Y",
+    "delay": 0.01,
+    "data": {
+        "santo": "1235925081792843848"
+    },
+    "threads": 30,
+    "snipe_enabled": false,
+    "date": "2024-07-05T17:41:00"
+}
+
