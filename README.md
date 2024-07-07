@@ -8,5 +8,5 @@
         "your_vanity_url": "your_guild_id"
     },
     "snipe_enabled": false,
-}``
+}`
 
